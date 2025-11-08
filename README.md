@@ -10,7 +10,9 @@ Beta events matters beacusebecause everything about event is a daunting, both fo
 But Beta event attends to these needs with trained AI that helps with strategizing, planning, recommendation for event itineries, visual designs and manpower. it provides a platform where you can collborate with team members, abd get real time anaylytivs before and after the events, send outbound calls to attendees. for event attendees, you can easily make paymenyts, see upcoming events, propmt AI to give optuons based on the kind of event you want to attend.
 
 
-Beta event is for event panners/organzisers, and event attendees.https://balsamiq.cloud/se7u9g7/po04gg3
+Beta event is for event panners/organzisers, and event attendees. 
+
+here is a low fidelity wireframe for beta events https://balsamiq.cloud/se7u9g7/po04gg3
 
         
 key feature
