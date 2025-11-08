@@ -27,7 +27,7 @@ team collaboartion : invites team via email, select role/ access. each team can 
 
 ticketing payments: name, contact, different paymet tiers, number of seats for purchase, payment integration (Flutter wave, paystack, bank transfer, atm pin method ). this featutre can include NPS, real time Q & for survey and data collection. integrate websockets for chats and Q%A, ELK stack/ openSearch dashboard for logging.  Webhook API to send notifications once a user makes payment. 
 
-attendee tracking : names and contact list of all attendees and their payment details is logged in the product. Technology: integation of CRM tools like zoho, outbound.im for CRM and automations. 
+tracking : names and contact list of all attendees and their payment details is logged in the product. names of teams meners that are not technically incluned are also logged for automated outbound calls.Technology: integation of CRM tools like zoho, outbound.im for CRM and automations. 
 
 analytics: attendee/ event metrics, ticket sales dashboard, survey reports from attendees before and after eventts,financial analytics for event planners/oragnizers to see cash flow. Technology: Segment for metrics, Big Query/Grafana for dashboard. 
 
